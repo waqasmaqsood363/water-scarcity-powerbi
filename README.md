@@ -71,7 +71,8 @@ An interactive **Power BI dashboard** analyzing global population exposure to va
 
 ### 📊 Data Source  
 Dataset sourced from Kaggle:  
-👉 [Global Population Exposed to Water Scarcity (1996–2005)](https://www.kaggle.com/datasets/madridista01/global-population-exposed-to-water-scarcity)  
+👉[Global Population Exposed to Water Scarcity (1996–2005)](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsscarcitycsv/data)
+
 
 ---
 
