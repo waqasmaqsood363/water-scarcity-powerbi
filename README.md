@@ -17,7 +17,6 @@ SQL (basic) – Data preparation & validation
 
 Dataset sourced from Kaggle:
 [Global Population Exposed to Water Scarcity (1996–2005)](https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsscarcitycsv/data)
-Global Population Exposed to Water Scarcity (1996–2005)
 
 🚰 Features & Highlights
 Problem
