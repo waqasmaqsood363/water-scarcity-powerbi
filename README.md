@@ -101,7 +101,7 @@ To create a **data-driven, interactive dashboard** that visualizes global water 
 ### 📸 Dashboard Screenshot  
 
 <p align="center">
-  <img src="screenshot.png" alt="Dashboard Screenshot" width="800"/>
+  <img src="Population Exposure to Water Scarcity -Screenshot.png" alt="Dashboard Screenshot" width="800"/>
 </p>
 
 
