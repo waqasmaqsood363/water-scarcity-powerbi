@@ -46,3 +46,7 @@ Revealed that billions were exposed to some form of scarcity during the 1996–2
 Identified regions with recurring severe scarcity, supporting risk-based basin prioritization.
 
 Provided an analytical foundation for policy development, water conservation strategies, and climate resilience planning.
+
+📸 Dashboard Screenshot
+![Dashboard Screenshot](Population Exposure to Water Scarcity -Screenshot.png)
+
